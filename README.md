@@ -1,2 +1,2 @@
-# Option Volatility and Pricing: Advanced Trading Strategies and Techniques
+# Option Volatility and Pricing - Sheldon Natenberg
 
