@@ -1,2 +1,2 @@
-# Option Volatility and Pricing
+# Option Volatility and Pricing: Advanced Trading Strategies and Techniques
 
