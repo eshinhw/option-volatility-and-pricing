@@ -8,7 +8,7 @@
 
 ## Chapter Summary
 
-Chapter 1: Financial Contracts
+[Chapter 1: Financial Contracts](01_financial_contracts/README.md)
 
 Chapter 2: Forward Pricing
 
