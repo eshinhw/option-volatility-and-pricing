@@ -1,4 +1,4 @@
-# Forward Pricing
+# Chapter 2. Forward Pricing
 
 - forward price = current cash price + costs of buying now - benefits of buying now
 - Traders in forward or futures contracts sometimes refer to the **basis**, the difference between the cash price and the forward price. In most cases, the basis will be a negative number - the costs of buying now will outweight the benefits of buying now.
