@@ -20,7 +20,7 @@ Chapter 5: Theoretical Pricing Models
 
 Chapter 6: Volatility
 
-Chapter 7: Risk Measurement I
+[Chapter 7: Risk Measurement I](07_risk_measurement_I/README.md)
 
 Chapter 8: Dynamic Hedging
 
