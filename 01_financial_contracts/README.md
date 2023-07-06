@@ -1,4 +1,4 @@
-# Financial Contracts
+# Chapter 1. Financial Contracts
 
 - The trading of stock on an exchange is usually considered to be a spot or cash transation: the buyer and seller agree on the price, the buyer pays the seller, and the seller delivers the stock.
 - When a forward contract is traded on an organized exchange, it is usually referred to as a **futures contract**. The exchange guarantees the integrity of the contract.
