@@ -10,7 +10,7 @@
 
 [Chapter 1: Financial Contracts](01_financial_contracts/README.md)
 
-Chapter 2: Forward Pricing
+[Chapter 2: Forward Pricing](02_forward_pricing/README.md)
 
 Chapter 3: Contract Specifications and Option Terminology
 
