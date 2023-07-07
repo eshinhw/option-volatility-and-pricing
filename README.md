@@ -26,7 +26,7 @@ Chapter 8: Dynamic Hedging
 
 Chapter 9: Risk Measurement II
 
-Chapter 10: Introduction to Spreading
+[Chapter 10: Introduction to Spreading](10_introduction_to_spreading/README.md)
 
 Chapter 11: Volatility Spreads
 
